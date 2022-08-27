@@ -1,0 +1,84 @@
+.ownData--flex {
+  display: flex;
+  justify-content: space-between;
+}
+.ownData--description--title {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 60px;
+  color: #21243D;
+  width: 440px;
+  padding-bottom: 40px;
+}
+.ownData--description--text {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #21243D;
+  width: 497px;
+  padding-bottom: 38px;
+}
+.ownData--description--button {
+  background: #FF6464;
+  border: none;
+  padding: 9px 20px;
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  color: #FFFFFF;
+  margin-bottom: 70px;
+}
+.ownData--description--button:hover{
+  background-color: #a91c1c;
+  transition-duration: 0.5s;
+  cursor: pointer;
+}
+.resentPosts{
+  background-color: #EDF7FA;
+}
+.resentPosts__title{
+  padding: 20px 0;
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 60px;
+  display: flex;
+  align-items: flex-end;
+  color: #21243D;
+}
+.resentPosts--flex{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 32px;
+}
+.resentPosts--flex__block{
+  background-color: #FFFFFF;
+  padding: 23px;
+}
+.resentPosts--flex__block__description__title{
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 38px;
+  color: #21243D;
+  width: 374px;
+  padding-bottom: 20px;
+}
+.resentPosts--flex__block__text{
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #21243D;
+  width: 339px;
+  padding-top: 20px;
+}
