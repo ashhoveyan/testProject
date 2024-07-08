@@ -6,6 +6,12 @@ import * as dotenv from 'dotenv';
 dotenv.config();
 console.log(process.env.PORT);
 console.log(process.env.PORT);
+console.log(123)
+console.log(123)
+console.log(123)
+console.log(123)
+console.log(123)
+console.log(123)
 
 //Missssssssshhhhhhhh baaareeeeevvvvvvvv
 
